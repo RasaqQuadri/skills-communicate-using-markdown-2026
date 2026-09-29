@@ -9,6 +9,9 @@ what did we last time
      - change a word
      - change another word 
 ### MARKDOWN REVIEW
+
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="200" align="right">
+
 what are we doing today
 1. Tutorial
     2. on the move
